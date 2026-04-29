@@ -1,0 +1,10 @@
+{
+  "name": "influencer-ugc-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: influencer-ugc-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
